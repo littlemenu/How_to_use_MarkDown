@@ -2,17 +2,12 @@
 
 # HOW TO USE MARKDOWN
 
-------
-
 ### 2019.7.16 ~ 2019.7.17
 
 > #### I didn't know why needed Markdown. Because, There are MS Word, Pages and Memo. But, the documents written in Markdown seemed simple to look at. And for the project, I Learn
 
 
-
 ## Header
-
------
 
 > # This is a Title (Header1)
 >
@@ -67,10 +62,7 @@
 > ```
 
 
-
 ## Emphasis
-
------
 
 >#### *Italic*
 >
@@ -111,10 +103,7 @@
 >```
 
 
-
 ## List
-
------
 
 >1. Ordered List
 >   1. Ordered List
@@ -145,10 +134,7 @@
 >```
 
 
-
 ## Code
-
-----
 
 > #### ⬇︎ This is a Code inline
 >
@@ -171,10 +157,7 @@
 > ```
 
 
-
 ## Link
-
----
 
 >[Jaehun Jung's GitHub](https://github.com/littlemenu)
 >
@@ -183,10 +166,7 @@
 >```
 
 
-
 ## Image
-
-----
 
 >#### 1. Image From Web
 >
@@ -198,9 +178,9 @@
 >
 >----
 >
->####2. Image From Local
+>#### 2. Image From Local
 >
->![GitHub Logo](/Users/jeongjaehun/개발/Study/Markdown/GitHub_Logo.png)
+>![GitHub Logo](/Users/jeongjaehun/개발/Study/Markdown/GitHub_Logo.png)
 >
 >
 >
@@ -219,10 +199,7 @@
 >```
 
 
-
 ## Table
-
----
 
 >### # Rule
 >
@@ -248,10 +225,7 @@
 >```
 
 
-
 ## Horizontal Rule
-
-------
 
 > #### ⬆︎ This is a Horizontal Rule (Enter at least 3)
 >
@@ -265,17 +239,10 @@
 > ```
 
 
-
 ## BlockQuote
-
-------
 
 > #### ⬅︎  This is a BlockQuote
 >
 > ```markdown
 > >
 > ```
-
-
-
-## 
